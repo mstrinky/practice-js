@@ -1,23 +1,23 @@
-// var loop = 1;
-// while(loop<40){
-//     console.log('ajke amar mon valo nei');
-//     console.log(loop);
-//     loop ++;
-// }
+var loop = 1;
+while(loop<40){
+    console.log('ajke amar mon valo nei');
+    console.log(loop);
+    loop ++;
+}
 
-// // show odd numbers 
-// for(var number = 581; number<=623; number +=2){
-//     console.log(number);
-// }
+// show odd numbers 
+for(var number = 581; number<=623; number +=2){
+    console.log(number);
+}
 
-// // show even numbers 
-// for(var number = 412; number<=456; number +=2){
-//     console.log(number);
-// }
+// show even numbers 
+for(var number = 412; number<=456; number +=2){
+    console.log(number);
+}
 
-// // show array 
-// var haveLearned = ['html','css','bootstrap','tailwind','javascript'];
-// console.log(haveLearned);
+// show array 
+var haveLearned = ['html','css','bootstrap','tailwind','javascript'];
+console.log(haveLearned);
 
 // break and continue 
 var number = 30;
