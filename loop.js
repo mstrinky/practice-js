@@ -41,7 +41,7 @@ for(var i=0;i<number.length;i++){
 var numbers = [100,200,300,400,500,600];
 for(var i=0;i<numbers.length;i++){
     var number = numbers[i];
-    if(number <= 200){
+    if(number < 200){
         console.log(number);
     }
 }
